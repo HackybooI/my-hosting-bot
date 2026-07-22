@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "K1tsu0.aternos.me",
-    "port": 61629,
+    "port": "61629",
     "version": "",
     "try-creative": false
   },
